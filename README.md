@@ -1,6 +1,6 @@
 ### Hi there,  👋
 
-- 🔭 Pursuing btech at JSSATE
+- 🔭 Pursuing B.tech at JSSATE
 - 🌱 Learing more on web dovelopment
 - 👯 Try to look and contribute to open sourse
 - 🤔 I’m looking for help with learning more things
